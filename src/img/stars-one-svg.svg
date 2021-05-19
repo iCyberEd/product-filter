@@ -1,0 +1,13 @@
+<svg viewBox="0 0 225 25" height="25" width="115" className="rating__stars" data-rating="1">
+          <defs>
+            <linearGradient id="rating__partial-brushing">
+              <stop className="rating__partial-brushing_main" offset="50%" />
+              <stop className="rating__color" offset="50%" />
+            </linearGradient>
+          </defs>
+          <polygon className="rating__star_filled" points="9.9,1.1 3.3,21.78 19.8,8.58 0,8.58 16.5,21.78" />
+          <polygon className="rating__star_filled" points="31.9,1.1 25.3,21.78 41.8,8.58 22,8.58 38.5,21.78" />
+          <polygon className="rating__star_filled" points="53.9,1.1 47.3,21.78 63.8,8.58 44,8.58 60.5,21.78" />
+          <polygon className="rating__star_partial" points="75.9,1.1 69.3,21.78 85.8,8.58 66,8.58 82.5,21.78" />
+          <polygon className="rating__star" points="97.9,1.1 91.3,21.78 107.8,8.58 88,8.58 104.5,21.78" />
+        </svg>

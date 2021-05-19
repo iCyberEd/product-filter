@@ -1,0 +1,6 @@
+export const LOWER_PRICE: string = "LOWER_PRICE"
+export const HIGHER_PRICE: string = "HIGHER_PRICE"
+export const GET_SELECTED_POSTS: string = "GET SELECTED POSTS"
+export const GET_SELECTED_RANGE: string = "GET SELECTED RANGE"
+export const ADD_FILTER: string = "ADD_FILTER"
+export const REMOVE_FILTER: string = "REMOVE_FILTER"
