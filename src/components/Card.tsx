@@ -1,6 +1,6 @@
 import React from 'react'
 import img1 from './img/card-img-1.png'
-import { CardState } from './reducers/cardsData'
+import { CardState } from '../reducers/cardsData'
 
 interface CardProps {
   product: CardState,

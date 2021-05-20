@@ -1,12 +1,12 @@
 import React, { useMemo, useState } from 'react';
 import { useSelector } from 'react-redux';
 import './App.scss';
-import { Card } from './Card';
+import { Card } from './components/Card';
 import { CardsState } from './reducers/cardsData';
 import { RootState } from './reducers/rootReducer';
 import { SortState } from './reducers/sortReducer';
 import { FilterState } from './reducers/filterReducer';
-import { SortOption } from './SortOption';
+import { SortOption } from './components/SortOption';
 
 let mockState = {
   products: [],

@@ -1,6 +1,6 @@
 import React, { DOMElement, useState, MouseEvent } from 'react'
 import { useDispatch } from 'react-redux';
-import { SortState } from './reducers/sortReducer';
+import { SortState } from '../reducers/sortReducer';
 
 import { SortCheckbox } from './SortCheckbox';
 import SortSearch from './SortSearch';

@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { useDispatch } from 'react-redux'
-import { LOWER_PRICE, GET_SELECTED_POSTS, GET_SELECTED_RANGE, ADD_FILTER, REMOVE_FILTER } from './actions/actionTypes'
+import { LOWER_PRICE, GET_SELECTED_POSTS, GET_SELECTED_RANGE, ADD_FILTER, REMOVE_FILTER } from '../actions/actionTypes'
 
 interface SortCheckboxProps {
   sortItem: string,
