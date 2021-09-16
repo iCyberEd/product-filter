@@ -1,6 +1,6 @@
 {
-  "homepage": "https://icybered.github.io/product-filter/",
-  "name": "product-filter",
+  "homepage": "https://icybered.github.io/products/",
+  "name": "products",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -1,5 +1,5 @@
 
-# This is a piece of the site rozetka.com.ua. Written using React.js, Redux, TypeScript
+# This is a piece of the site rozetka.com.ua. Written using React.js, Redux, TypeScript, SCSS
 
 1. First of all, you can configure how many cards will appear and almost every card parameter in the cardsData.ts file. All parameters are automatically generated within a predetermined range, which is easy to reconfigure
 
